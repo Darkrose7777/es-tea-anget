@@ -1,0 +1,28 @@
+{
+    "name": "es-tea-anget",
+    "version": "1.0.0",
+    "description": "Hujan hujan enaknya minum es tea anget",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Darkrose7777/es-tea-anget.git"
+    },
+    "dependencies": {
+      "es-tea-manis": "^1.0.0"
+    },
+    "keywords": [
+      "es",
+      "tea",
+      "anget"
+    ],
+    "author": "Dark Rose",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/Darkrose7777/es-tea-anget/issues"
+    },
+    "homepage": "https://github.com/Darkrose7777/es-tea-anget#readme"
+  }
+  
